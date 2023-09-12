@@ -1,6 +1,6 @@
 Hi there 👋 I'm Thanh Doan
 <br/><br/>
-A software engineer passionate about Web Development, Back-end services☢️, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation, Automation 🤖 and customer-driven iterative Product Development. 
+A software engineer passionate about Web Development 🌐, Back-end services☢️, ☁️ Cloud computing, 🚀 DevOps, 🆕 Innovation, Automation 🤖 and customer-driven iterative Product Development. 
 <br/><br/>
 I loves to work in a team setting and learn new skills and implementing them. 
 <br/><br/>
